@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-**harismazlan/harismazlan**
+**Call me Haris, thank you for visiting my github profile!**
 
 - 🔭 I’m currently working on a mental health awareness Web App, that bridges the mobile app and the AI engine via APIs for my current company.
 - 🌱 I’m currently learning Laravel 8.
