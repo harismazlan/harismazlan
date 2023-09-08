@@ -2,8 +2,6 @@
 
 **harismazlan/harismazlan**
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a mental health awareness Web App, that bridges the mobile app and the AI engine via APIs for my current company.
 - 🌱 I’m currently learning Laravel 8.
 - 👯 I’m looking to collaborate on Ruby on Rails project or any MVC to revisit my first love, Rails!
