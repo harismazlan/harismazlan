@@ -15,3 +15,5 @@
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=harismazlan)](https://github.com/anuraghazra/github-readme-stats)
 
 Skills: HTML, CSS, JavaScript, Ruby, Ruby on Rails, PHP, CodeIgniter, Laravel, Angular 8 (One CMS Project connected to a mobile app)
+
+Please note that my repo does not represent my work for various companies in the past as those repos are connected via the company email as they should be!
