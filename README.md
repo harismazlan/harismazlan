@@ -3,7 +3,7 @@
 **Call me Haris, thank you for visiting my github profile!**
 
 - 🔭 I’m currently working on a mental health awareness Web App, that bridges the mobile app and the AI engine via APIs for my current company.
-- 🌱 I’m currently learning Laravel 8.
+- 🌱 I’m currently working with Laravel 9.
 - 👯 I’m looking to collaborate on Ruby on Rails project or any MVC to revisit my first love, Rails!
 - 🤔 I’m looking for help with learning more about devops, container (Dockers) and AWS EC2 instances!
 - 💬 Ask me about My past experience!
